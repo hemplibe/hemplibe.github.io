@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hemplibe.github.io/sitemap.hemplibe.gz
+Sitemap: https://hemplibe.github.io/app/sitemap.hemplibe.gz
+Sitemap: https://hemplibe.github.io/assets/sitemap.hemplibe.gz
+Sitemap: https://hemplibe.github.io/css/sitemap.hemplibe.gz
+Sitemap: https://hemplibe.github.io/data/sitemap.hemplibe.gz
+Sitemap: https://hemplibe.github.io/includes/sitemap.hemplibe.gz
+Sitemap: https://hemplibe.github.io/item/sitemap.hemplibe.gz
+Sitemap: https://hemplibe.github.io/src/sitemap.hemplibe.gz
